@@ -1,3 +1,5 @@
+# Juno PM, by David Bernal
+
 David Bernal
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artifact lives in its own folder.
