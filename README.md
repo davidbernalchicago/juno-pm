@@ -1,7 +1,5 @@
 # Juno PM
 
-> _(one-line pitch: what Juno does, for whom, in one sentence)_
-
 David Bernal, November 2026
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artifact lives in its own folder.
